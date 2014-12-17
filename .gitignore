@@ -1,0 +1,3 @@
+manifest.yml
+node_modules/*
+config-prod.js

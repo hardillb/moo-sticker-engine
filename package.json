@@ -1,0 +1,16 @@
+{
+	"name": "mooStickerEngine",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+    "start" : "node app.js"
+  	},
+	"dependencies": {
+		"express": "*",
+		"oauth": "~0.9.10"
+	},
+		"engines": {
+		"node": "0.10.x",
+		"npm": "1.3.x"
+	}
+}
