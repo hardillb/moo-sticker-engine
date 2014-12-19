@@ -20,7 +20,7 @@ if (process.env.VCAP_SERVICES) {
 
 //encodeURIComponent(JSON.stringify(pack))
 
-app.get("/mqtt", function(req, res){
+app.get("/create", function(req, res){
 
 	var pack = config.pack;
 
