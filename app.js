@@ -42,7 +42,7 @@ app.get("/create", function(req, res){
 	);
 
 	oauth.post(
-		"http://www.moo.com/api/service/",
+		"https://www.moo.com/api/service/",
 		null,
 		null,
 		post_body,
